@@ -1,0 +1,25 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "This is my first app on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theLostOwl/HelloWorld.git"
+  },
+  "keywords": [
+    "Hello",
+    "World",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Geoffrey Jennings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theLostOwl/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/theLostOwl/HelloWorld#readme"
+}
